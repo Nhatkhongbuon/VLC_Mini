@@ -5,7 +5,7 @@ This project include 3 folders:
 <ul>
   <li>Hardware: Hardware files (design by Easyeda) and 3D printing files (design by Easyeda Pro)</li>
   <li>Documents: Tutorial documentation and some caution about this project</li>
-  <li>Software: Application need to program this kit and some caution for program</li>
+  <li>Software: Application needed for program this kit and some caution for programmer</li>
 </ul>
 
 <h2>3D image about the kit</h2>
